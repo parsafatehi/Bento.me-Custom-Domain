@@ -106,3 +106,9 @@ compatibility_flags = ["nodejs_compat"]
 # [[vectorize]]
 # binding = "MY_INDEX"
 # index_name = "my-index"
+
+# Below the current configuration
+[vars]
+BENTO_USERNAME = "parsafatehi" # replace with the name of your Bento page
+BASE_URL = "https://parsafatehi.ir" # the custom domain you'll use
+
